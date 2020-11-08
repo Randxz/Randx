@@ -1,0 +1,25 @@
+p{
+    color:red;
+    font-size: 36px;
+    font-weight: 100;
+    width: 100px;
+    border: 2px solid blue;
+    border-radius: 12px;
+
+}
+td {
+    padding-left: 100px ;
+    border: 3px solid rgb(252, 143, 1);
+    border-radius: 12px;
+}
+table {
+    width:100%;
+}
+li {
+    border: 3px solid rgb(5, 163, 202) ;
+    padding: 6px 6px 6px 6px;
+    margin: 2px 2px 2px 2px;
+}
+li:hover {
+    background-color: rgb(180, 176, 176);
+}

@@ -1,0 +1,16 @@
+p{
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    font-weight: 100;
+    width: 100px;
+    border: 3px blue;
+    border-radius: 12px;
+}
+table {
+    border: 2px solid rgb(0, 0, 0);
+}
+td{
+    color: rgb(0, 0, 0);
+    padding-left: 100px;
+    border: 2px solid #524d4d ;
+}
