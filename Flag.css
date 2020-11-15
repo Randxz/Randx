@@ -1,0 +1,9 @@
+div{
+     border: 2px solid rgb(228, 149, 3);
+     position: absolute;
+     top: 40%;
+     left: 42%;
+     width: 300px;
+     height: 200px;
+     background: radial-gradient(circle, #bc002d 58px, #fff 60px);
+}
