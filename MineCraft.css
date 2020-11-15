@@ -1,0 +1,40 @@
+div {
+    float:left;
+    display: block;
+    border: 3px solid red;
+    width: 80%;
+    height: 80px;  
+}
+.text {
+    float: left;
+    display: block;
+    border: 3px solid red;
+    width: 40%;
+}
+.abs{
+    float: left;
+    display: block;
+    border: 3px solid red;
+    width: 39.7%;
+    height: 80px;
+}
+.spec{
+    float: left;
+    display:block;
+    border:3px solid red;
+    width:26.4%;
+}    
+.matte{
+    float: left;
+    display: block;
+    border:3px solid red;
+    width:26.49%;
+    
+}
+.mouse{
+    float: left;
+    display: block;
+    border:3px solid red;
+    width:26.5%;
+    
+}
